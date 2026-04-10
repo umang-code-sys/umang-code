@@ -1,3 +1,3 @@
 # umang-code
 This is my first Git Repository
-Author - Umang Sharma
+Author - Umang Sharmaa
